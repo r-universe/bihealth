@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "isaeditor"]
+	path = isaeditor
+	url = https://github.com/bihealth/isaeditor
+	shallow = true
+	registered = true
+[submodule "SigsPack"]
+	path = SigsPack
+	url = https://github.com/bihealth/sigspack
+	shallow = true
+	registered = true

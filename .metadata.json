@@ -1,0 +1,9 @@
+[
+  {
+    "package": "isaeditor",
+    "oncran": true
+  },
+  {
+    "package": "SigsPack"
+  }
+]
